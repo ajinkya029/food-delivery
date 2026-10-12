@@ -136,7 +136,7 @@ Make sure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/food-delivery-backend.git
+git clone https://github.com/ajinkya029/food-delivery.git
 ```
 
 Navigate into the project directory:
